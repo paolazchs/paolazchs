@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paola-de-oliveira-112b522a7/)
 
 ![Paola de Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=paolazchs&show_icons=true&theme=dracula)
-![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=paolazchs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+![Tecnologias]( https://github-readme-stats.vercel.app/api/top-langs/?username=paolazchs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 ## Tecnologias que eu uso no meu dia
 
