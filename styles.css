@@ -1,0 +1,260 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Krona One", sans-serif;
+}
+
+
+body{
+    background-color: #E0E0E0;
+}
+
+ nav {
+    color:#723B6C ;
+    justify-content: space-between;
+    display: flex;
+    margin: 10px 90px;
+    height: 80px;
+    align-items: center;
+}
+
+nav ul{
+    list-style:none;
+    display: flex;
+    gap: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 15px;
+    color: #723B6C;
+}
+
+.conteudo h1{
+    font-size: 35px;
+    text-align: center;
+    font-weight: 300;
+    color: #723B6C;
+    margin-top: 200px;
+}
+.conteudo h1{
+    font-size: 35px;
+    text-align: center;
+    font-weight: 300;
+    color: #723B6C;
+    margin-top: 200px;
+}
+.conteudo button{
+    padding: 15px 70px;
+    margin-top: 40px;
+    margin-left: 580px;
+    border-radius: 10px;
+    border: none;
+    background-color:#723B6C;
+}
+.conteudo button a{
+    color: #E0E0E0;
+    background-color: #723B6C;
+    text-decoration: none;
+    font-size: 25px;
+}
+.inferior{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 40px;
+    margin-top: 200px;
+}
+.inferior img{
+    width: 80px;
+}
+.inferior button{
+    height: 30px;
+    padding: 0px 10px;border-radius: 5px;
+    border: none;
+    background-color: #723B6C;
+    margin-top: 30px;
+}
+.inferior button a{
+    color: #E0E0E0;
+    background-color: #723B6C;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.about h2{ 
+    width: 17%;
+    background: #FBFBFB;
+    padding: 10px 10px;
+    font-size: 13px;
+    margin-left: 590px;
+    margin-top: 150px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 10px #723B6C;
+}
+
+.about p{
+    margin-top: 50px;
+    text-align: center;
+    color: #723B6C;
+    font-size: 20px;
+}
+.items {
+    display: flex;
+    margin-left: px;
+    margin-top: 70px;
+    gap: 70px;
+}
+.items img{
+    width: 300px;
+    margin: 20px 0px 0px 25px;
+}
+.item{
+    background-color: #FBFBFB;
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+    margin-left: 60px;
+    box-shadow: 5px 10px 18px #888888;
+}
+.skills{
+    background-color: #FBFBFB;
+    margin: 180px 30px;
+    padding: 90px 60px 100px 60px;
+    box-shadow: 5px 10px 18px #888888;
+    border-radius: 5px;
+}
+.skills h2{
+    font-size: 35px;
+    font-weight: 300;
+    color: #723B6C;
+}
+.skills p{
+    margin-top: 30px;
+    color: #723B6C;
+    font-size: 20px;
+}
+.skills button{
+    padding: 10px;
+    margin-top: 30px;
+    border: #723B6C solid 2px;
+    border-radius: 5px;
+}
+.caixas{
+    display: flex;
+    margin-top: 50px;
+    
+}
+.c{
+   margin-left: 20px;
+   background-color: #E0E0E0;
+   border-radius: 5px;
+   padding: 10px 4px;
+   box-shadow: 3px 7px 5px #888888;
+}
+.c img{
+    width: 60px;
+    margin-top: 10px;
+}
+
+
+footer{
+    margin-top: 300px;
+    height: 50vh;
+    background-color: #723B6C;
+    position: relative; 
+}
+
+footer .balaof{
+    display: flex;
+    left: 20%;
+    align-items: center;
+    background-color: #FBFBFB;
+    width: 60%;
+    border-radius: 10px;
+    box-shadow: 5px 10px 18px #350E31;
+    position: absolute;
+    height: 150px; 
+    top: -20%;
+    justify-content: space-evenly;
+}
+.balaof h1{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 22px;
+ font-weight: 700;
+ color: #350E31;
+}
+.balaof p{
+    color: #723B6C;
+}
+.balaof button{
+    padding: 15px;
+    border-radius: 10px;
+    border: solid 1px;
+    background: transparent;
+}
+.balaof button a{
+    text-decoration: none;
+}
+
+.colunas{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 100px;
+}
+
+.col1 .logo img{
+    margin-top: 100px;
+}
+.col1 p{
+    color:#350E31;
+    font-size: 1.5rem;
+    font-weight: 400px;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin-top: 30px;
+}
+
+.col2 h1{
+    color:#350E31;
+    margin-top: 120px;
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+.col2 li{
+    list-style: none;
+    margin-top: 20px;
+}.col2 a{
+    color: #FBFBFB;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.col3 h4{
+    color:#350E31;
+    margin-top: 85px;
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif ;
+}.col3 li{
+    list-style: none;
+    margin-top: 20px;
+}.col3 a{
+    color: #FBFBFB; 
+    justify-content: center;
+    text-decoration: none;
+}
+
+.botao button{
+    padding: 20px;
+    margin-top: 100px;
+    background-color: #350E31;
+    border: none;
+    border-radius: 5px;
+}
+.botao button a{
+    color: #FBFBFB;
+    text-decoration: none;
+}
+a:hover {
+    color: #FBFBFB;
+}
